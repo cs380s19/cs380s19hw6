@@ -1,0 +1,38 @@
+14
+Olympia
+Salem
+Boise
+Morgantown
+Chicago
+NewYorkCity
+Baltimore
+Miami
+Dallas
+LosAngeles
+Denver
+Boston
+Minneapolis
+SaltLakeCity
+22
+Olympia Salem 159
+Olympia Boise 535
+Boise Salem 474
+Morgantown Boise 2200
+Morgantown Baltimore 242
+NewYorkCity Baltimore 200
+Chicago Baltimore 695
+Salem NewYorkCity 2940
+Salem LosAngeles 918
+LosAngeles Dallas 1436
+LosAngeles NewYorkCity 2790
+Denver Boise 836
+Denver Miami 2064
+Denver Chicago 1004
+Miami Dallas 1313
+Miami Minneapolis 1791
+Minneapolis Olympia 1696
+Minneapolis Baltimore 1102
+NewYorkCity Boston 216
+SaltLakeCity Boise 345
+SaltLakeCity Denver 536
+SaltLakeCity LosAngeles 689
